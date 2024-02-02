@@ -205,7 +205,7 @@ public class View extends JFrame implements ActionListener {
 			playerPanel.setLayout(new BoxLayout(playerPanel, BoxLayout.Y_AXIS));
 			
 			scrollPane.setBounds(1270, 50, 250, 400);
-			scrollPane2.setBounds(1270,450, 250, 400 );
+			scrollPane2.setBounds(1270,450, 250, 390 );
 			playerPanel.setBounds(1070, 50, 200, 200);
 			wurf.setBounds(1070, 300, 200, 50);
 			Karte.setBounds(1070, 10, 500, 30);
